@@ -57,5 +57,5 @@ makeForm("https://docs.google.com/forms/u/0/d/e/1FAIpQLSfMBPq3idjraMY3TSEsRqMu2I
 "entry.436809903": document.domain,
 "entry.1019328412": getDefaultName(),
 "entry.90721733": getMacTime(),
-"entry.898040325": "",
+"entry.898040325": document.referrer,
 })
